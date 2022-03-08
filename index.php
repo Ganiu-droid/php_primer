@@ -13,5 +13,8 @@
         echo "<h1> My age is: $age </h2>";
         echo "<h1>My age is:  </h1>";
     ?>
-    
+    <button class="btn btn-primary" >Click me</button>
+    <button class="btn btn-danger" >Click me</button>
+    <button class="btn btn-warning" >Click me</button>
+    <a href="http://www.heroku.com" class="btn btn-success" target ="_blank">Visit heroku</a>
     <?php require './includes/footer.php' ?>
